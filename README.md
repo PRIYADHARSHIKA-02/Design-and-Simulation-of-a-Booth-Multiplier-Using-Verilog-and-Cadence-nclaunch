@@ -8,6 +8,7 @@ To design and simulate a **Booth Multiplier** using **Verilog HDL** and verify i
 - **Cadence nclaunch** (for simulation)
 
 ### Computer System
+
 - Minimum **4GB RAM** and a **multi-core processor**
 
 ## Theory
